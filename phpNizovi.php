@@ -1,17 +1,17 @@
 <?php
 // PHP nizovi - vjezba
-/* $phoneNumbers = [1, 2, 3, 4, 5];
+$primeNumbers = [3, 5, 7, 9, 13];
 
-var_dump(in_array(2, $phoneNumbers));
-var_dump(array_search(2, $phoneNumbers));
+var_dump(in_array(2, $primeNumbers));
+var_dump(array_search(2, $primeNumbers));
 
-$phoneNumbers[] = 6;
+$primeNumbers[] = 15;
 
-var_dump(count($phoneNumbers));
-var_dump($phoneNumbers);
+var_dump(count($primeNumbers));
+var_dump($primeNumbers);
 
-arsort($phoneNumbers);
-var_dump($phoneNumbers); */
+arsort($primeNumbers);
+var_dump($primeNumbers); 
 
 $users = [
     'user1'=> [
