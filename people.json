@@ -1,0 +1,92 @@
+[
+    {
+        "name": "John Doe",
+        "age": 33,
+        "gender": "male",
+        "skills": [
+            "PHP",
+            "MySql",
+            "Javascript"
+        ],
+        "isMarried": false,
+        "weight": 75.9
+    },
+    {
+        "name": "Mala Riba",
+        "age": 33,
+        "gender": "female",
+        "skills": [
+            "Wordpress",
+            "PHP",
+            "NodeJs"
+        ],
+        "isMarried": true,
+        "weight": 66.3
+    },
+    {
+        "name": "Marko",
+        "age": 25,
+        "gender": "male",
+        "skills": [
+            "PHP",
+            "MySql"
+        ],
+        "isMarried": false,
+        "weight": 80.2
+    },
+    {
+        "name": "Marko",
+        "age": 25,
+        "gender": "male",
+        "skills": [
+            "PHP",
+            "MySql"
+        ],
+        "isMarried": false,
+        "weight": 80.2
+    },
+    {
+        "name": "Marko",
+        "age": 25,
+        "gender": "male",
+        "skills": [
+            "PHP",
+            "MySql"
+        ],
+        "isMarried": false,
+        "weight": 80.2
+    },
+    {
+        "name": "Marko",
+        "age": 25,
+        "gender": "male",
+        "skills": [
+            "PHP",
+            "MySql"
+        ],
+        "isMarried": false,
+        "weight": 80.2
+    },
+    {
+        "name": "Marko",
+        "age": 25,
+        "gender": "male",
+        "skills": [
+            "PHP",
+            "MySql"
+        ],
+        "isMarried": false,
+        "weight": 80.2
+    },
+    {
+        "name": "Marko",
+        "age": 25,
+        "gender": "male",
+        "skills": [
+            "PHP",
+            "MySql"
+        ],
+        "isMarried": false,
+        "weight": 80.2
+    }
+]
